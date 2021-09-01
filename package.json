@@ -1,0 +1,24 @@
+{
+  "name": "asincronismojs",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesgmont/asincronismojs.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlesgmont/asincronismojs/issues"
+  },
+  "homepage": "https://github.com/charlesgmont/asincronismojs#readme"
+}
