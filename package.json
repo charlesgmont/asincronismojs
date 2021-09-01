@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/charlesgmont/asincronismojs/issues"
   },
-  "homepage": "https://github.com/charlesgmont/asincronismojs#readme"
+  "homepage": "https://github.com/charlesgmont/asincronismojs#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
